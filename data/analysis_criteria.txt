@@ -1,0 +1,12 @@
+project criteria:
+
+rating: 4 or better
+
+price: Free
+
+app in both
+
+review count: >= 100,000
+
+category: Game(s)
+
